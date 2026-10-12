@@ -6,9 +6,10 @@ Based in Germany. M.Sc. Computer Science, University of Bonn.
 
 ## Featured: Kontor
 
-I designed and built [Kontor](https://kontor.hammadbhutta.dev/), a commerce ERP used by a seller working across several marketplace stores and shipping integrations. It connects order intake, inventory, catalog, packing, parcels, returns, and accounting handoffs in role-specific workflows.
+I designed and built [Kontor](https://kontor.hammadbhutta.dev/), a commerce ERP now handling 1,000+ orders a month for a seller. It is rolling out across more stores to replace a legacy system. Kontor connects order intake, inventory, catalog, packing, parcels, returns, and accounting handoffs in role-specific workflows.
 
 - **[Use the live sandbox](https://kontor.hammadbhutta.dev/#explore)** — fictional records, role accounts, and Shopify/DHL test environments.
+- **[Follow the system flow](https://kontor.hammadbhutta.dev/#architecture)** — interactive order intake, carrier label, and recovery paths.
 - **[Read the architecture](https://github.com/HammadTufail/kontor-architecture)** — event processing, idempotency, worker recovery, data boundaries, and design decisions.
 - **[See the wider portfolio](https://portfolio.hammadbhutta.dev/)** — Kontor alongside selected team work and research.
 
