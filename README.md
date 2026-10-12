@@ -6,11 +6,11 @@ Based in Germany. M.Sc. Computer Science, University of Bonn.
 
 ## Featured: Kontor
 
-I designed and built [Kontor](https://hammadbhutta.dev/kontor/), a commerce ERP used by a seller working across several marketplace stores and shipping integrations. It connects order intake, inventory, catalog, packing, parcels, returns, and accounting handoffs in role-specific workflows.
+I designed and built [Kontor](https://kontor.hammadbhutta.dev/), a commerce ERP used by a seller working across several marketplace stores and shipping integrations. It connects order intake, inventory, catalog, packing, parcels, returns, and accounting handoffs in role-specific workflows.
 
-- **[Use the live sandbox](https://hammadbhutta.dev/kontor/#explore)** — fictional records, role accounts, and Shopify/DHL test environments.
+- **[Use the live sandbox](https://kontor.hammadbhutta.dev/#explore)** — fictional records, role accounts, and Shopify/DHL test environments.
 - **[Read the architecture](https://github.com/HammadTufail/kontor-architecture)** — event processing, idempotency, worker recovery, data boundaries, and design decisions.
-- **[See the wider portfolio](https://hammadbhutta.dev/portfolio/)** — Kontor alongside selected team work and research.
+- **[See the wider portfolio](https://portfolio.hammadbhutta.dev/)** — Kontor alongside selected team work and research.
 
 The application source remains private while its distribution and license review is pending. The architecture repository is a public technical case study.
 
@@ -23,4 +23,4 @@ The application source remains private while its distribution and license review
 
 I care about the handoffs between a user's decision, a durable system state, and the next person who has to act.
 
-**[CV](https://hammadbhutta.dev/cv/)** · **[Portfolio](https://hammadbhutta.dev/portfolio/)** · **[Email](mailto:hammadbhutta786@gmail.com)**
+**[CV](https://cv.hammadbhutta.dev/)** · **[Portfolio](https://portfolio.hammadbhutta.dev/)** · **[Email](mailto:hammadbhutta786@gmail.com)**
